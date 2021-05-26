@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am writing using **bold markdown**
 Use the left arrow to go back!
